@@ -1,0 +1,28 @@
+#include<stdio.h>
+void main()
+{
+int num,1,2,3,4,5;
+printf("enter the number");
+scanf("%d",&num);
+if(num==1)
+{
+printf("pizza,rs.239);
+}
+else if(num==2);
+{
+printf("burger,rs.129");
+}
+else if(num==3);
+{
+printf("pasta,rs.179);
+}
+else if(num==4);
+{
+printf("french fries",rs.99);
+}
+else if(num==5);
+{
+printf("sandwich,rs.149);
+}
+return 0;
+}
